@@ -1,5 +1,5 @@
-This is a two-class, 2d classification. \
-Using *perceptron-pocket-algorithm(formula below)*
+This is a two-class, 2d classification. 
+### Using perceptron-pocket-algorithm <ins>from scratch</ins> (formula below) 
 
 ![image](https://user-images.githubusercontent.com/83788223/216810342-33dc4f16-586a-4128-a09c-910a036c58b8.png)
 
